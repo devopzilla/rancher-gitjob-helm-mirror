@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  gitjob:
+  - apiVersion: v2
+    appVersion: 0.1.31
+    created: "2022-09-06T22:37:52.77848939+02:00"
+    description: Controller that run jobs based on git events
+    digest: 0354736aa0906844e4064010ae27c0fa7924d03295ced9624940fc707eee0d34
+    name: gitjob
+    urls:
+    - https://github.com/rancher/gitjob/releases/download/v0.1.31/gitjob-0.1.31.tgz
+    version: 0.1.31
+generated: "2022-09-06T22:37:52.774413064+02:00"
