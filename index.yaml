@@ -8,6 +8,6 @@ entries:
     digest: be33410318b4c2a85ca250ef06b43e71d10cd74e520c28e3479f0b5edb3267d5
     name: gitjob
     urls:
-    - gitjob-0.1.32.tgz
+    - https://github.com/rancher/gitjob/releases/download/v0.1.32/gitjob-0.1.32.tgz
     version: 0.1.32
 generated: "2022-09-06T22:53:22.24047276+02:00"
